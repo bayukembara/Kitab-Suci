@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Source Code Pro", monospace;
+}
+.container-judul {
+    display: flex;
+    max-width: 575.98px;
+    justify-content: center;
+    background-color: #666565;
+    max-height: 100%;
+    align-content: center;
+}
+
+.navbar-brand {
+    display: flex;
+    padding: 5px 5px;
+    font-size: 25px;
+    margin-top: 10px;
+    align-self: center;
+    font-weight: bold;
+}
+
+.img-ayat {
+    width: 350px;
+}
