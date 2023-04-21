@@ -3,12 +3,13 @@ body {
     flex-direction: column;
     justify-content: center;
     font-family: "Source Code Pro", monospace;
+    background-color: rgba(212, 212, 170, 0.8);
 }
 .container-judul {
     display: flex;
     max-width: 575.98px;
     justify-content: center;
-    background-color: #666565;
+    background-color: #bad4aa;
     max-height: 100%;
     align-content: center;
 }
@@ -24,4 +25,8 @@ body {
 
 .img-ayat {
     width: 350px;
+    display: flex;
+    justify-content: center;
+    margin-left: 5px;
+    padding: 5px 5px;
 }
